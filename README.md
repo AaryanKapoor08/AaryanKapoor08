@@ -55,12 +55,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AaryanKapoor08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanKapoor08&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AaryanKapoor08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AaryanKapoor08&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=AaryanKapoor08&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AaryanKapoor08&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
